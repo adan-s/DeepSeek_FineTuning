@@ -1,6 +1,3 @@
-Here is a `README.md` file for your project:
-
-```markdown
 # DeepSeek Fine-Tuning
 
 This project fine-tunes the DeepSeek model using the `transformers` library and the `peft` library for efficient parameter adaptation.
